@@ -29,24 +29,13 @@ Sou apaixonado por dados e pelo potencial que eles têm de revelar respostas e o
 
 ---
 
-### 🎯 Currently Focused On
-
-- Improving data storytelling through Power BI & Python  
-- Exploring practical machine learning applications  
-- Designing scalable and maintainable automation pipelines  
-- Connecting business strategy to analytics
-
----
-
 ### 🤝 Vamos Conectar
 
-<p align="left">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Carlos_Lima-0A66C2?style=for-the-badge&label=Linkedin&labelColor=0079B6&link=www.linkedin.com%2Fin%2Fcarloslima-ed">
-  <a href="mailto:restier2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-restier2001@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+<p>
+  <a href="www.linkedin.com/in/carloslima-ed" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Carlos_Lima-0A66C2?style=for-the-badge&label=Linkedin&labelColor=0079B6">
+  </a>
+  <a href="mailto:carloslima2170@gmail.com">
+    <img alt="Static Badge" src="https://img.shields.io/badge/carloslima2170%40gmail.com-EB493B?style=for-the-badge&logo=gmail&label=Gmail&labelColor=C72926">
   </a>
 </p>
-
----
-
-_“I believe in data with purpose — not just numbers, but stories that move people and businesses.”_
