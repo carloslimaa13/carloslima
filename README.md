@@ -15,28 +15,16 @@ Sou apaixonado por dados e pelo potencial que eles têm de revelar respostas e o
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-0C9DBF?style=for-the-badge&logo=python&logoColor=FFFFFF&logoSize=auto&labelColor=F8B721">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-1B1055?style=for-the-badge&logo=pandas&logoColor=FFFFFF&logoSize=auto&labelColor=E80089">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Selenium-00B400?style=for-the-badge&logo=selenium&logoColor=FFFFFF&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-034C5F?style=for-the-badge&logo=mysql&logoColor=FFFFFF&logoSize=auto&labelColor=E97B01">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Excel-195D38?style=for-the-badge&logoColor=FFFFFF&logoSize=auto&label=X&labelColor=31BE7D">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PowerBI-ECC20C?style=for-the-badge&logoColor=FFFFFF&logoSize=auto">
 </p>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=carloslimaa13&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
 
 ---
 
