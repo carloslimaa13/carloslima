@@ -25,16 +25,17 @@ Sou apaixonado por dados e pelo potencial que eles têm de revelar respostas e o
   <img alt="Static Badge" src="https://img.shields.io/badge/PowerBI-ECC20C?style=for-the-badge&logoColor=FFFFFF&logoSize=auto">
 </p>
 
-### 🧠 Meus Proejetos
+### 🧠 Meus Projetos
 
 ---
 
 ### 🤝 Vamos Conectar
 
 <p>
-  <a href="www.linkedin.com/in/carloslima-ed" target="_blank">
+  <a href="https://www.linkedin.com/in/carloslima-ed" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/Carlos_Lima-0A66C2?style=for-the-badge&label=Linkedin&labelColor=0079B6">
   </a>
+
   <a href="mailto:carloslima2170@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/carloslima2170%40gmail.com-EB493B?style=for-the-badge&logo=gmail&label=Gmail&labelColor=C72926">
   </a>
